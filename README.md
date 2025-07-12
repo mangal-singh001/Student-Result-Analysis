@@ -53,3 +53,13 @@ A data analysis project that explores student academic performance using Python 
    ```bash
    git clone https://github.com/mangal-singh001/Student-Result-Analysis.git
    cd Student-Result-Analysis
+
+
+
+🔗 Connect with Me
+
+GitHub: mangal-singh001
+LinkedIn: [https://www.linkedin.com/in/mangal-singh123/]
+
+
+✍️ Feel free to fork this repo or suggest improvements!
